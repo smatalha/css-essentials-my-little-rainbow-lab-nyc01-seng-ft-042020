@@ -9,3 +9,7 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+/*To get ROYGBIV onto our rainbow we'll need seven hex colors. Red:
+`#f00`; Orange: `#ffa500`; Yellow: `#ff0`; Green: `#00bc3f`; Blue: `#06f`;
+Indigo: `#8a2be2`; Violet: `#d300c9*/
